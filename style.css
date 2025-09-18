@@ -31,9 +31,6 @@ color: #fff;
     height: 1024px;
     padding-top: 60px; 
     padding-bottom: 60px;
-        .main-title: font-weight: 700;
-        font-size: 48px;
-        color: #303030;
     font-weight: 400;
     .main-text{
         font-family: "Inter", sans-serif;
@@ -216,7 +213,7 @@ color: #303030 !important;
 }
 
 
-.about-section {fill: #fff;
+.about-section {;
     /* Стили для второй секции */
 }
 
